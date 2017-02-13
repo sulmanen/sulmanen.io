@@ -1,0 +1,10 @@
+languageCode: "en-us"
+title: "'You're not that bad'"
+baseURL: "http://sulmanen.io/"
+theme: "paperback"
+permalinks:
+  post: /:year/:month/:title
+params:
+  AuthorName: "Samuli Ulmanen"
+  GitHubUser: "sulmanen"
+  SidebarRecentLimit: 5
